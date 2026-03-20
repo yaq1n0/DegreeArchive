@@ -1,5 +1,5 @@
-# degree-archive 
-### A repository of the projects that were noteworthy enough to be mentioned but not self-contained or large enough to have their own repository. 
+# Degree Archive
+Projects that were noteworthy enough to be mentioned but not self-contained or large enough to have their own repository. 
 
 # Why not just upload the entire backup of all the files related to my degree? 
 I initially thought about just uploading my entire degree archive as-is but decided against this for several reasons. 
